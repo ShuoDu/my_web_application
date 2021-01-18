@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "334f3c84217289d9159125394d39ea09",
+  "assets/AssetManifest.json": "5eb1d88d122a254d66c795e9334449be",
 "assets/assets/fonts/AvenirLTPro-Medium.ttf": "21007b96d5a629196de3a143cdb09db5",
 "assets/assets/fonts/DIN-Medium-Number.ttf": "260b98fc840ddf7ca033c325da48279f",
 "assets/assets/fonts/fin_regular_2.ttf": "cd3926490e8bc0333cc8b8f62fe21913",
@@ -15,8 +15,10 @@ const RESOURCES = {
 "assets/assets/images/ct2.png": "ce20a8e1234d06977d78c8c2f90c8022",
 "assets/assets/images/ct3.png": "8ec099dbe8849c80f2908afe45121f4a",
 "assets/assets/images/ct4.png": "62700bd222a11a689d27bd659c7a352c",
+"assets/assets/images/dapp.png": "c216388279acc09c7a9cf259fb9b4398",
 "assets/assets/images/fg_icon.png": "9fc58e3052b485d9f7cb9798f5439e3e",
 "assets/assets/images/fm_logo.jpg": "f2ca82165edee660bac36de45ca66194",
+"assets/assets/images/qun.jpg": "cd0776dea26b8c54c8ec9ad2c0c77df5",
 "assets/assets/images/s_one.png": "da1bdc8bb9f319d1ec7efa6bbf205f12",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "a68d2a28c526b3b070aefca4bac93d25",
@@ -25,9 +27,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "00dd1ac1cd08b0747dffd7344dbb95d6",
-"/": "00dd1ac1cd08b0747dffd7344dbb95d6",
-"main.dart.js": "4ae64ad4f614d3f5e46544c3567cf689",
+"index.html": "136d360f656bc14f0ae6925a126f4b57",
+"/": "136d360f656bc14f0ae6925a126f4b57",
+"main.dart.js": "63efefc983f1d17b71649798a180f1dd",
 "manifest.json": "a686649f2e1d1845a0f79f1097e1abbd"
 };
 
